@@ -1,6 +1,6 @@
 import math
 from collections import OrderedDict
-
+"Create comment and push with git cmd"
 
 class NotEnaughValues(Exception):
     value = 'Give area or perimeter!'
